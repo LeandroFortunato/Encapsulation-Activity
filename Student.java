@@ -39,9 +39,6 @@ public class Student {
         }
   }
 
-    private String getMySecretNickName(){
-        return stdSecretNickName;    
-    }
     private void setMySecretNickName(String pSecretNickName){
         stdSecretNickName = pSecretNickName;
         return ;       

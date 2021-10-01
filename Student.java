@@ -39,8 +39,4 @@ public class Student {
         }
   }
 
-    private void setMySecretNickName(String pSecretNickName){
-        stdSecretNickName = pSecretNickName;
-        return ;       
-    }
 }
